@@ -4,7 +4,7 @@ This is an interesting and challenging project. The applications fascinate me to
 
 
 
-## Plan of Implementation - Top-level Architecture
+### Plan of Implementation - Top-level Architecture
 *Representation*: <br>
 Modified Encoding-Decoding architecture <br>
 **[B-K-A]** BACKGROUND-KNOWLEDGE-APPLICATION <br>
@@ -30,7 +30,7 @@ data.
 
 
 
-### Applications
+### Applications of Abstractive Summarization technology
 Following are some the real-life applications thought by me:
 1. **[Daily short and important news]** We would like to be update as
 quickly as possible with the current aairs with facts
