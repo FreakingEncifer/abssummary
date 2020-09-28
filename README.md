@@ -1,7 +1,7 @@
 # Abstractive Summarization
 
 This is an interesting and challenging project. The applications fascinate me to keep pursuing to solve the problem.
-
+[Initial Literature Review](src/docs/MTechProject_MidtermReport.pdf)
 
 
 ### Plan of Implementation - Top-level Architecture
